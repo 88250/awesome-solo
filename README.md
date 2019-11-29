@@ -1,6 +1,7 @@
 | 图标 | 标题 | 链接 | 文章 | 仓库 |
 | :---: | --- | --- | ---: | :---: |
-|  | Major Tom - 记录精彩的程序人生 | http://www.alwaysblue.work| 7 | [:octocat:](https://github.com/meettom/solo-blog) |
+|  | xiangxiaopang 的个人博客 - 记录精彩 | http://www.xjjblog.com:8082| 4 | [:octocat:](https://github.com/xiangxiaopang/solo-blog) |
+|  | Xiaoyver 的个人博客 - 记录精彩的程序人生 | http://www.ixiaoyver.com| 13 | [:octocat:](https://github.com/Xiaoyver/solo-blog) |
 
 注：
 
