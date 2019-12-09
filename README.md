@@ -4,6 +4,7 @@
 | :---: | --- | --- | ---: | :---: |
 |  | liunx-jun 的个人博客 - 记录精彩的程序人 | http://www.notexpect.com:8080| 1 | [:octocat:](https://github.com/liunx-jun/solo-blog) |
 |  | renxiaoguang 的个人博客 - 记录精彩的 | https://blog.5fire.tech| 1 | [:octocat:](https://github.com/renxiaoguang/solo-blog) |
+|  | mapyJJJ 的个人博客 - 期待有一片深邃的星空 | https://blog.mapyjjj.cn| 25 | [:octocat:](https://github.com/mapyJJJ/solo-blog) |
 | <img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1575818432602&amp;di=58e243cbd770f9a1dc5ffc7e352bd6df&amp;imgtype=0&amp;src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F01%2F54%2F84%2F44574739399bd41.jpg" width="24px"/> | ~清风徐来~ - 相遇即是缘分 | http://chengge.club| 6 | [:octocat:](https://github.com/13097917715/solo-blog) |
 | <img src="http://q21ss5rxa.bkt.clouddn.com/0840A65A-BBE3-41A3-891A-424B49540C80.jpeg" width="24px"/> | 刘大大 - 记录精彩的程序人生 | http://www.vanfj.com| 34 | [:octocat:](https://github.com/lwc1st/solo-blog) |
 |  | wky233 的个人博客 - 记录精彩的程序人生 | https://www.wkyhky.site| 28 | [:octocat:](https://github.com/wky181/solo-blog) |
@@ -53,7 +54,6 @@
 |  | Linlx0628 的个人博客 - 记录精彩的程序人 | http://www.linlx.club| 1 | [:octocat:](https://github.com/Linlx0628/solo-blog) |
 |  | Major Tom - 记录精彩的程序人生 | https://www.alwaysblue.work| 10 | [:octocat:](https://github.com/meettom/solo-blog) |
 |  | yc 的个人博客 - Talk is cheep, | https://www.ycisme.xyz| 2 | [:octocat:](https://github.com/YaoCheng8667/solo-blog) |
-|  | abel-d 的个人博客 - 记录精彩的程序人生 | https://blog.canondin.cn| 2 | [:octocat:](https://github.com/abel-d/solo-blog) |
 | <img src="http://wcoder.club/images/logo.jpg" width="24px"/> | 无羁的小农民的个人博客 - 记录精彩的程序人生 | http://wcoder.club| 15 | [:octocat:](https://github.com/wangzhengkang/solo-blog) |
 |  | ryoua 的个人博客 | http://www.ryoua.site| 2 | [:octocat:](https://github.com/ryoua/solo-blog) |
 |  | zhaofus 的个人博客 - 记录精彩的程序人生 | https://blog.zhaofus.com| 2 | [:octocat:](https://github.com/zhaofusheng/solo-blog) |
@@ -68,6 +68,7 @@
 |  | lixuanliming 的个人博客 - 记录精彩的 | http://www.jokeme.top| 2 | [:octocat:](https://github.com/lixuanliming/solo-blog) |
 |  | 风中叶 - 记录精彩的程序人生 | http://jasontec.cn| 1 | [:octocat:](https://github.com/Jason8812/solo-blog) |
 | <img src="https://study.algerfan.cn/images/ironman-draw.png" width="24px"/> | AlgerFan \| Blog - Step by | https://www.algerfan.cn| 106 | [:octocat:](https://github.com/AlgerFan/solo-blog) |
+|  | abel-d 的个人博客 - 记录精彩的程序人生 | https://blog.canondin.cn| 1 | [:octocat:](https://github.com/abel-d/solo-blog) |
 | <img src="https://avatars0.githubusercontent.com/u/20992974?v=4" width="24px"/> | 梨涡浅笑 - 古今多少事,都付笑谈中. | https://www.lemoyxk.com| 1 | [:octocat:](https://github.com/Lemo-yxk/solo-blog) |
 |  | huangjk0759 的个人博客 - 记录精彩的程 | http://www.kbhjk.cn| 2 | [:octocat:](https://github.com/huangjk0759/solo-blog) |
 |  | T-Aoker 的个人博客 - 记录精彩的程序人生 | http://www.aoker.tk:8080| 2 | [:octocat:](https://github.com/T-Aoker/solo-blog) |
@@ -98,7 +99,6 @@
 | <img src="https://img.hacpai.com/file/2019/07/大白-10b16219.png" width="24px"/> | Project Driven | http://project-driven.xyz| 9 | [:octocat:](https://github.com/etscript/solo-blog) |
 | <img src="http://static.donsen.site/apple-touch-icon.png" width="24px"/> | Zion Dotson 的个人博客 - 记录精彩的程 | https://blog.donsen.site| 21 | [:octocat:](https://github.com/Blackman99/solo-blog) |
 |  | Mmmrkr 的个人博客 - 所写皆是所得 | http://qianran.cloud| 4 | [:octocat:](https://github.com/Mmmrkr/solo-blog) |
-|  | mapyJJJ 的个人博客 - 期待有一片深邃的星空 | https://blog.mapyjjj.cn| 24 | [:octocat:](https://github.com/mapyJJJ/solo-blog) |
 |  | hhwf 的个人博客 - 记录精彩的程序人生 | https://www.hhwf.store| 1 | [:octocat:](https://github.com/hhwf/solo-blog) |
 | <img src="https://img.hacpai.com/file/2019/11/logo3-c01621d4.png" width="24px"/> | PrendsMoi - 记录精彩的程序人生 | https://www.liuhgxu.com| 1 | [:octocat:](https://github.com/973749104/solo-blog) |
 | <img src="https://img.hacpai.com/file/2019/08/%E5%9C%86%E5%BA%95-4f20ebb2.png?imageView2/2/interlace/1/format/webp" width="24px"/> | 墨殇的技术博客 - 凡打不倒我的，必使我强大！！！— | https://www.inkdp.cn| 32 | [:octocat:](https://github.com/InkDP/solo-blog) |
@@ -121,81 +121,81 @@
 |  | 狒狒（Joe） 的个人博客 - 记录精彩的程序人生 | https://fengxinhui.cn| 3 | [:octocat:](https://github.com/fengxinhui/solo-blog) |
 |  | hope 的个人博客 - 记录人、事又或是我所喜欢的 | https://missz.top| 10 | [:octocat:](https://github.com/hopepanwei/solo-blog) |
 | <img src="https://s2.ax1x.com/2019/06/24/ZkP5A1.png" width="24px"/> | Kosmos - 我以兴趣为饵,钓起生活的大鱼 | https://zdone.top| 106 | [:octocat:](https://github.com/ellenbboe/solo-blog) |
+| <img src="https://img.hacpai.com/file/2019/09/代码-facb515c.png" width="24px"/> | Yi-Xing丨Blog - Don&#39;t g | http://zyxwmj.top|  | [:octocat:](https://github.com/Yi-Xing/solo-blog) |
 |  | bjzt 的个人博客 - 记录精彩的程序人生 | http://jsjianwang.cn|  | [:octocat:](https://github.com/bjzt/solo-blog) |
-|  | LEMOcCHEN 的个人博客 - 坚持总结！！！ | https://www.lemocchen.com|  | [:octocat:](https://github.com/LEMOcCHEN/solo-blog) |
-|  | Hienao 的停机坪 - 记录精彩的程序人生 | http://www.swt6.win|  | [:octocat:](https://github.com/hienao/solo-blog) |
+|  | nonewind 的博客 - 家中程序员初长成 | http://aj-hunter.xyz:8083|  | [:octocat:](https://github.com/nonewind/solo-blog) |
+| <img src="http://sunnyfanfan.com/favicon.ico" width="24px"/> | sunnyfan 的个人博客 - 记录精彩的程序人生 | http://blog.sunnyfanfan.com|  | [:octocat:](https://github.com/fx35792/solo-blog) |
+|  | Yang&#39;s Blog - 记录精彩瞬间 | http://www.flying.ink|  | [:octocat:](https://github.com/yangsanchao/solo-blog) |
+| <img src="http://106.13.150.134/images/logo.png" width="24px"/> | 17mark - 记录点滴人生。 | http://www.17mark.com|  | [:octocat:](https://github.com/a929569603/solo-blog) |
+|  | 奈何师兄的个人博客 - 呼啸而过，你的昨天，在哪一站 | http://www.sumoon.top|  | [:octocat:](https://github.com/sumoonyoko/solo-blog) |
+|  | 一人行者 - 每一段旅行都有终点 | https://www.crissmagic.cn|  | [:octocat:](https://github.com/CrissMagic/solo-blog) |
+| <img src="http://149.129.58.119/favicon.ico" width="24px"/> | 杨阳的不落阁 - 猛兽总是独行,牛羊才成群结队 | http://zxacn.com|  | [:octocat:](https://github.com/Funnyrz/solo-blog) |
+| <img src="https://ossaliyunbucket2.oss-cn-beijing.aliyuncs.com/vipzhou.cn/image/coding_32px_1216693_easyicon.net.ico" width="24px"/> | 菜@芽的小站 - 分享有用的编码知识，记录精彩的程序 | https://vipzhou.cn|  | [:octocat:](https://github.com/caiya/solo-blog) |
+| <img src="https://img2018.cnblogs.com/blog/1698035/201909/1698035-20190907220810364-1004887530.png" width="24px"/> | Y 的个人博客 - 友善是修养，独往是性格 | http://www.jicks.cn|  | [:octocat:](https://github.com/Tidhy/solo-blog) |
+| <img src="https://www.sszsj.top/images/favicon.png" width="24px"/> | 鼠鼠在碎觉 - forever alone fore | https://sszsj.top|  | [:octocat:](https://github.com/csfwff/solo-blog) |
+|  | 张小黑的梦呓 - 不如马上出发 :-) | https://www.zhangxiaohey.com|  | [:octocat:](https://github.com/peng1996/solo-blog) |
+|  | DevinWu 的个人博客 - 记录精彩的程序人生 | https://wudevin.cn|  | [:octocat:](https://github.com/DevinWu/solo-blog) |
+|  | 回忆的温度 的个人博客 - 记录精彩的程序人生 | https://www.guojiawei.top|  | [:octocat:](https://github.com/weixiaoqingtian/solo-blog) |
+| <img src="https://zixizixi.cn/images/logo/logo@96.png" width="24px"/> | 子兮子兮 - No can, but will. | https://zixizixi.cn|  | [:octocat:](https://github.com/iTanken/solo-blog) |
+| <img src="https://i.loli.net/2019/07/27/5d3bd9214e37d50311.png" width="24px"/> | WinkXiao 的个人博客 - 我走得很慢，但是我 | http://xw.zhuxf.club|  | [:octocat:](https://github.com/winkxiao/solo-blog) |
+| <img src="https://dik111-1258101294.cos.ap-guangzhou.myqcloud.com/favicon.ico" width="24px"/> | yuwei的个人博客 - 记录精彩的程序人生 | http://www.yuweizhan.cn|  | [:octocat:](https://github.com/dik111/solo-blog) |
+| <img src="https://www.dioxide.top/images/skat-icon.png" width="24px"/> | CO₂的小窝 - 记录百味人生 | https://www.dioxide.top|  | [:octocat:](https://github.com/Liushaowu/solo-blog) |
+|  | Matrix&#39;s Free Land - 海 | http://polynomial.cc|  | [:octocat:](https://github.com/xiaoyao2102/solo-blog) |
+|  | liuhongyin 的个人博客 - 记录精彩的程序 | http://www.marcot.cn|  | [:octocat:](https://github.com/liuhongyin/solo-blog) |
+| <img src="https://img.hacpai.com/file/2019/06/WechatIMG5gaitubao64x64-2c7c81e4.jpg" width="24px"/> | 小水的博客 - 一个无聊的精彩人生 | http://www.loogn.net|  | [:octocat:](https://github.com/loogn/solo-blog) |
+| <img src="https://s2.ax1x.com/2019/12/04/QlJoFg.png" width="24px"/> | fxg 的个人博客 - 记录精彩的程序人生 | http://fxg.life|  | [:octocat:](https://github.com/xingzhegu/solo-blog) |
+|  | 姜广庆的博客 - 记录精彩的程序人生 | https://aumc.cc|  | [:octocat:](https://github.com/JiangGuangqing/solo-blog) |
+|  | Totoro 的个人博客 - 记录精彩的程序人生 | http://myhert.cn/solo-v3.6.6|  | [:octocat:](https://github.com/Totoro-JJ/solo-blog) |
+| <img src="https://img.hacpai.com/file/2019/08/微信头像-e511d70c.jpg" width="24px"/> | 今日说码 - 点滴记录中国代码进程 | http://wmblr.com|  | [:octocat:](https://github.com/wmbLR/solo-blog) |
+|  | 贺艳峰程序记录 - 记录精彩的程序人生 | https://www.heyanfeng.store|  | [:octocat:](https://github.com/down-to-earth1994/solo-blog) |
+|  | PhzCode 个人博客 - ——你的问题在于读书不 | http://www.phzz.xyz|  | [:octocat:](https://github.com/PhzCode/solo-blog) |
+|  | 小荣哥的个人博客 - 保守的人可能不配拥有 | https://solo.yuanxiaorong.top|  | [:octocat:](https://github.com/werewolf666/solo-blog) |
+|  | Isabellae - (¦3[▓▓] | http://zhangchensong.top:8080/solo|  | [:octocat:](https://github.com/zhangchensong/solo-blog) |
+|  | 镜花水月 | https://blog.thelzx.xyz|  | [:octocat:](https://github.com/Mangopapakyu/solo-blog) |
+|  | zytops 的个人博客 - 每天进步一点点 | http://www.zytops.com|  | [:octocat:](https://github.com/zytops/solo-blog) |
+|  | AllenQing(掘金 晴江) - 说十遍不如做一 | https://blog-admin.wanm-mall.com|  | [:octocat:](https://github.com/wanming001/solo-blog) |
+| <img src="https://git.zeekling.cn/avatars/3?s=287" width="24px"/> | ZEEKLING - Stay simple, st | https://www.zeekling.cn|  | [:octocat:](https://github.com/lzh984294471/solo-blog) |
+|  | 柠檬茶的个人博客 -  凡事到了回忆的时候，真实得像 | https://www.liuhsb.cn|  | [:octocat:](https://github.com/Adoboy/solo-blog) |
+| <img src="https://www.mmzsblog.cn/images/mmzsit.png" width="24px"/> | 淼淼之森 - 程序员说：懒人更习惯于思考，再没有比编 | https://www.mmzsblog.cn/solo|  | [:octocat:](https://github.com/mmzsblog/solo-blog) |
+|  | Delort - 二进制安全爱好者 | http://www.delort.xyz|  | [:octocat:](https://github.com/keenwolf/solo-blog) |
+|  | 一闪一闪亮晶晶，满天都是小星星 - 记录犯二的历程 | https://www.yxingxing.net|  | [:octocat:](https://github.com/xingxingdegit/solo-blog) |
+| <img src="https://raw.githubusercontent.com/maxuhui666/img/master/3f40e3ad5913947b697bd18865fb805.jpg" width="24px"/> | 马旭辉的博客 - 学习在于积累：滴水可以石穿！ 学而 | https://www.kissman.cn|  | [:octocat:](https://github.com/maxuhui666/solo-blog) |
+|  | 凌动智行拖欠工资 - 讨薪历程艰辛 | https://www.lkmotion.cn|  | [:octocat:](https://github.com/lkmforward/solo-blog) |
+|  | liepainian的个人博客 - 记录精彩的人生 | https://www.zgylbn.cn|  | [:octocat:](https://github.com/linbainian/solo-blog) |
+|  | AlanSune 的个人博客 - 记录精彩的程序人生 | https://ympretty.cn|  | [:octocat:](https://github.com/AlanSune/solo-blog) |
+| <img src="https://img.hacpai.com/avatar/1557558140040_1568594630932.jpeg?imageView2/1/w/256/h/256/q/100×tamp=1571386900257" width="24px"/> | Mr-YuanHe - 个人博客 | http://www.yuanheweb.com|  | [:octocat:](https://github.com/Mr-Yuanhe/solo-blog) |
+| <img src="https://www.splitshire.com/wp-content/uploads/2015/12/SplitShire-Logo.png" width="24px"/> | AMO-blog - 没有酒! 照样可以叙述我的故事 | http://www.amoolee.cn|  | [:octocat:](https://github.com/amooLilf/solo-blog) |
+| <img src="https://www.hereis.me/favicon.ico" width="24px"/> | Herman - HELLO WORLD, HERE | https://blog.hereis.me|  | [:octocat:](https://github.com/lj0812/solo-blog) |
 | <img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1574668938269&amp;di=a3fdc7b0d587744a55008d1cfb8a341f&amp;imgtype=0&amp;src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F28af6e6863d4b538eadb6e874601f915d9891de6112e4-vHZiju_fw658" width="24px"/> | 生命以负熵为食 - 未经思考的人生不值一过 | https://www.zhangln.com|  | [:octocat:](https://github.com/nbcoolkid/solo-blog) |
+|  | 水果家 | http://blog.shuiguoq.top|  | [:octocat:](https://github.com/zhaoshucai/solo-blog) |
+|  | 偷了月亮的努努的个人博客 - 记录精彩的程序人生 | http://www.sjlzb.cn|  | [:octocat:](https://github.com/songjian0/solo-blog) |
+|  | MicroNotes - Stay Hungry, | https://www.micronotes.top|  | [:octocat:](https://github.com/grey1995/solo-blog) |
+|  | lincome 的个人博客 - 记录精彩的程序人生 | https://blog.recordsmylife.com|  | [:octocat:](https://github.com/lincome/solo-blog) |
+| <img src="https://avatars2.githubusercontent.com/u/15071824?v=4" width="24px"/> | Mojerro的安乐窝 - 喜欢生物和射箭，Pyth | http://www.mojerro.wang|  | [:octocat:](https://github.com/JoeyGaojingxing/solo-blog) |
 |  | Moyck 的个人博客 - 站住，别跑！ | http://www.moyck.com|  | [:octocat:](https://github.com/Moyck/solo-blog) |
 | <img src="https://avatars2.githubusercontent.com/u/35397400?s=460&amp;v=4" width="24px"/> | 杨公子的个人博客 - 醒来啊麦克白！把沉睡赶走！ | http://www.yanggongzi.top|  | [:octocat:](https://github.com/Ronnie-Yang/solo-blog) |
 |  | 牝牡 - 相信美好的事情即将发生 | http://pinmua.cn|  | [:octocat:](https://github.com/Z-DogEgg/solo-blog) |
-| <img src="https://www.hereis.me/favicon.ico" width="24px"/> | Herman - HELLO WORLD, HERE | https://blog.hereis.me|  | [:octocat:](https://github.com/lj0812/solo-blog) |
-|  | YBXIE - 知行合一 | http://www.ybxie.top|  | [:octocat:](https://github.com/YBcreate/solo-blog) |
-|  | lincome 的个人博客 - 记录精彩的程序人生 | https://blog.recordsmylife.com|  | [:octocat:](https://github.com/lincome/solo-blog) |
-| <img src="https://img.hacpai.com/avatar/1557558140040_1568594630932.jpeg?imageView2/1/w/256/h/256/q/100×tamp=1571386900257" width="24px"/> | Mr-YuanHe - 个人博客 | http://www.yuanheweb.com|  | [:octocat:](https://github.com/Mr-Yuanhe/solo-blog) |
-|  | AlanSune 的个人博客 - 记录精彩的程序人生 | https://ympretty.cn|  | [:octocat:](https://github.com/AlanSune/solo-blog) |
-|  | 凌动智行拖欠工资 - 讨薪历程艰辛 | https://www.lkmotion.cn|  | [:octocat:](https://github.com/lkmforward/solo-blog) |
-|  | AllenQing(掘金 晴江) - 说十遍不如做一 | https://blog-admin.wanm-mall.com|  | [:octocat:](https://github.com/wanming001/solo-blog) |
-|  | 镜花水月 | https://blog.thelzx.xyz|  | [:octocat:](https://github.com/Mangopapakyu/solo-blog) |
-| <img src="https://s2.ax1x.com/2019/12/04/QlJoFg.png" width="24px"/> | fxg 的个人博客 - 记录精彩的程序人生 | http://fxg.life/solo-v3.6.0|  | [:octocat:](https://github.com/xingzhegu/solo-blog) |
-|  | XieWei博客 - 记录精彩的程序人生 | http://www.xiewei.club|  | [:octocat:](https://github.com/XieWeiZM/solo-blog) |
-|  | 执念の栈 | https://www.gaomingwei.xyz|  | [:octocat:](https://github.com/gmw-zjw/solo-blog) |
-|  | 小荣哥的个人博客 - 保守的人可能不配拥有 | https://solo.yuanxiaorong.top|  | [:octocat:](https://github.com/werewolf666/solo-blog) |
-|  | 贺艳峰程序记录 - 记录精彩的程序人生 | https://www.heyanfeng.store|  | [:octocat:](https://github.com/down-to-earth1994/solo-blog) |
-|  | 一人行者 - 每一段旅行都有终点 | https://www.crissmagic.cn|  | [:octocat:](https://github.com/CrissMagic/solo-blog) |
-| <img src="https://www.sszsj.top/images/favicon.png" width="24px"/> | 鼠鼠在碎觉 - forever alone fore | https://sszsj.top|  | [:octocat:](https://github.com/csfwff/solo-blog) |
-| <img src="https://s2.ax1x.com/2019/10/16/KFVuZT.png" width="24px"/> | Peachl- - 人终将被少年不得之物困扰一生 | https://www.peachl.com|  | [:octocat:](https://github.com/peachl/solo-blog) |
-| <img src="https://img2018.cnblogs.com/blog/1698035/201909/1698035-20190907220810364-1004887530.png" width="24px"/> | Y 的个人博客 - 友善是修养，独往是性格 | http://www.jicks.cn|  | [:octocat:](https://github.com/Tidhy/solo-blog) |
-|  | tobeshrek 的个人博客 - tobeshre | https://blog.tobeshrek.com|  | [:octocat:](https://github.com/tobeshrek/solo-blog) |
-| <img src="http://blog.zhangyuxin.org.cn/images/favicon.png" width="24px"/> | tadechen - 若酒折风今相离,无风无月也无你 | http://blog.zhangyuxin.org.cn|  | [:octocat:](https://github.com/tadechen/solo-blog) |
-|  | Delort - 二进制安全爱好者 | http://www.delort.xyz|  | [:octocat:](https://github.com/keenwolf/solo-blog) |
-|  | nonewind 的博客 - 家中程序员初长成 | http://aj-hunter.xyz:8083|  | [:octocat:](https://github.com/nonewind/solo-blog) |
-| <img src="https://www.mmzsblog.cn/images/mmzsit.png" width="24px"/> | 淼淼之森 - 程序员说：懒人更习惯于思考，再没有比编 | https://www.mmzsblog.cn/solo|  | [:octocat:](https://github.com/mmzsblog/solo-blog) |
-| <img src="http://sunnyfanfan.com/favicon.ico" width="24px"/> | sunnyfan 的个人博客 - 记录精彩的程序人生 | http://blog.sunnyfanfan.com|  | [:octocat:](https://github.com/fx35792/solo-blog) |
-| <img src="https://static-1252433105.cos.ap-beijing.myqcloud.com/blog.ninemoon.ink/head.jpg" width="24px"/> | 玄月二六 - 我的笔记分享 | http://blog.ninx.net|  | [:octocat:](https://github.com/ninevmoon/solo-blog) |
-|  | 绿光森林 - 记录精彩的程序人生 | https://www.bbsblog.net|  | [:octocat:](https://github.com/zhaiweiwei/solo-blog) |
-| <img src="https://www.lwjppz.cn/images/nan1.jpg" width="24px"/> | - 不努力的话，天赋就会被收回 | https://www.lwjppz.cn/solo|  | [:octocat:](https://github.com/Bursteretion/solo-blog) |
-| <img src="https://avatars1.githubusercontent.com/u/42400738?v=4" width="24px"/> | dadeity - 记录精彩的程序人生 | https://www.dduan.site|  | [:octocat:](https://github.com/dadeity/solo-blog) |
-| <img src="https://avatars0.githubusercontent.com/u/13534743?s=460&amp;v=4" width="24px"/> | mufengs 的个人博客 - 没有引发任何行动的思 | https://blog.mufengs.com|  | [:octocat:](https://github.com/mufengcoding/solo-blog) |
-|  | 奈何师兄的个人博客 - 呼啸而过，你的昨天，在哪一站 | http://www.sumoon.top|  | [:octocat:](https://github.com/sumoonyoko/solo-blog) |
-|  | zhangfeibiao 的个人博客 - 记录精彩的 | https://blog.zhangfeibiao.com|  | [:octocat:](https://github.com/zhangfeibiao/solo-blog) |
-| <img src="favicon.ico" width="24px"/> | 随心笔客，张小妞的博客 - FAMILY = Fat | https://fuyiyi.imdo.co|  | [:octocat:](https://github.com/zxniuniu/solo-blog) |
-| <img src="https://ftp.bmp.ovh/imgs/2019/11/bf38e53b082a7e3c.png" width="24px"/> | happiness&#34;blog - 你只有不断 | http://blogs.cpolar.cn|  | [:octocat:](https://github.com/happinesslijian/solo-blog) |
-| <img src="http://106.13.150.134/images/logo.png" width="24px"/> | 17mark - 记录点滴人生。 | http://www.17mark.com|  | [:octocat:](https://github.com/a929569603/solo-blog) |
-|  | Yang&#39;s Blog - 记录精彩瞬间 | http://www.flying.ink|  | [:octocat:](https://github.com/yangsanchao/solo-blog) |
-| <img src="https://en.gravatar.com/userimage/172081930/68c3ab0e0f66b07eaeaede663d1e34e6.jpeg" width="24px"/> | 小小荧的个人博客 - 记录精彩的程序人生 | http://www.xxytime.top|  | [:octocat:](https://github.com/xfy196/solo-blog) |
-| <img src="https://ossaliyunbucket2.oss-cn-beijing.aliyuncs.com/vipzhou.cn/image/coding_32px_1216693_easyicon.net.ico" width="24px"/> | 菜@芽的小站 - 分享有用的编码知识，记录精彩的程序 | https://vipzhou.cn|  | [:octocat:](https://github.com/caiya/solo-blog) |
-| <img src="https://img.hacpai.com/file/2019/05/icon-3374e543.png" width="24px"/> | 码恋 - ALL YOUR SMILES, ALL | https://aysaml.com|  | [:octocat:](https://github.com/wangning1018/solo-blog) |
-|  | 邃无端 的编程学习记录 - 记录精彩的程序人生 | http://www.hugoyisang.top|  | [:octocat:](https://github.com/edhugo88/solo-blog) |
 | <img src="https://ftp.bmp.ovh/imgs/2019/11/38cb368a5df8d33d.png" width="24px"/> | 余先生的简单生活 - 记录点滴生活 | https://www.purelives.cn|  | [:octocat:](https://github.com/yuhaoyang510/solo-blog) |
-| <img src="http://149.129.58.119/favicon.ico" width="24px"/> | 杨阳的不落阁 - 猛兽总是独行,牛羊才成群结队 | http://zxacn.com|  | [:octocat:](https://github.com/Funnyrz/solo-blog) |
-|  | DevinWu 的个人博客 - 记录精彩的程序人生 | https://wudevin.cn|  | [:octocat:](https://github.com/DevinWu/solo-blog) |
-| <img src="https://avatars2.githubusercontent.com/u/15071824?v=4" width="24px"/> | Mojerro的安乐窝 - 喜欢生物和射箭，Pyth | http://www.mojerro.wang|  | [:octocat:](https://github.com/JoeyGaojingxing/solo-blog) |
-|  | MicroNotes - Stay Hungry, | https://www.micronotes.top|  | [:octocat:](https://github.com/grey1995/solo-blog) |
-|  | 张小黑的梦呓 - 不如马上出发 :-) | https://www.zhangxiaohey.com|  | [:octocat:](https://github.com/peng1996/solo-blog) |
-|  | liuhongyin 的个人博客 - 记录精彩的程序 | http://www.marcot.cn|  | [:octocat:](https://github.com/liuhongyin/solo-blog) |
+| <img src="https://ftp.bmp.ovh/imgs/2019/11/bf38e53b082a7e3c.png" width="24px"/> | happiness&#34;blog - 你只有不断 | http://blogs.cpolar.cn|  | [:octocat:](https://github.com/happinesslijian/solo-blog) |
+|  | LEMOcCHEN 的个人博客 - 坚持总结！！！ | https://www.lemocchen.com|  | [:octocat:](https://github.com/LEMOcCHEN/solo-blog) |
+|  | Hienao 的停机坪 - 记录精彩的程序人生 | http://www.swt6.win|  | [:octocat:](https://github.com/hienao/solo-blog) |
+| <img src="favicon.ico" width="24px"/> | 随心笔客，张小妞的博客 - FAMILY = Fat | https://fuyiyi.imdo.co|  | [:octocat:](https://github.com/zxniuniu/solo-blog) |
+|  | 邃无端 的编程学习记录 - 记录精彩的程序人生 | http://www.hugoyisang.top|  | [:octocat:](https://github.com/edhugo88/solo-blog) |
+|  | YBXIE - 知行合一 | http://www.ybxie.top|  | [:octocat:](https://github.com/YBcreate/solo-blog) |
+| <img src="https://img.hacpai.com/file/2019/05/icon-3374e543.png" width="24px"/> | 码恋 - ALL YOUR SMILES, ALL | https://aysaml.com|  | [:octocat:](https://github.com/wangning1018/solo-blog) |
+| <img src="https://en.gravatar.com/userimage/172081930/68c3ab0e0f66b07eaeaede663d1e34e6.jpeg" width="24px"/> | 小小荧的个人博客 - 记录精彩的程序人生 | http://www.xxytime.top|  | [:octocat:](https://github.com/xfy196/solo-blog) |
+| <img src="https://avatars0.githubusercontent.com/u/13534743?s=460&amp;v=4" width="24px"/> | mufengs 的个人博客 - 没有引发任何行动的思 | https://blog.mufengs.com|  | [:octocat:](https://github.com/mufengcoding/solo-blog) |
+|  | 执念の栈 | https://www.gaomingwei.xyz|  | [:octocat:](https://github.com/gmw-zjw/solo-blog) |
+| <img src="https://avatars1.githubusercontent.com/u/42400738?v=4" width="24px"/> | dadeity - 记录精彩的程序人生 | https://www.dduan.site|  | [:octocat:](https://github.com/dadeity/solo-blog) |
+| <img src="https://www.lwjppz.cn/images/nan1.jpg" width="24px"/> | - 不努力的话，天赋就会被收回 | https://www.lwjppz.cn/solo|  | [:octocat:](https://github.com/Bursteretion/solo-blog) |
+|  | 绿光森林 - 记录精彩的程序人生 | https://www.bbsblog.net|  | [:octocat:](https://github.com/zhaiweiwei/solo-blog) |
+|  | zhangfeibiao 的个人博客 - 记录精彩的 | https://blog.zhangfeibiao.com|  | [:octocat:](https://github.com/zhangfeibiao/solo-blog) |
+| <img src="http://blog.zhangyuxin.org.cn/images/favicon.png" width="24px"/> | tadechen - 若酒折风今相离,无风无月也无你 | http://blog.zhangyuxin.org.cn|  | [:octocat:](https://github.com/tadechen/solo-blog) |
+|  | tobeshrek 的个人博客 - tobeshre | https://blog.tobeshrek.com|  | [:octocat:](https://github.com/tobeshrek/solo-blog) |
+|  | XieWei博客 - 记录精彩的程序人生 | http://www.xiewei.club|  | [:octocat:](https://github.com/XieWeiZM/solo-blog) |
+| <img src="https://static-1252433105.cos.ap-beijing.myqcloud.com/blog.ninemoon.ink/head.jpg" width="24px"/> | 玄月二六 - 我的笔记分享 | http://blog.ninx.net|  | [:octocat:](https://github.com/ninevmoon/solo-blog) |
+| <img src="https://s2.ax1x.com/2019/10/16/KFVuZT.png" width="24px"/> | Peachl- - 人终将被少年不得之物困扰一生 | https://www.peachl.com|  | [:octocat:](https://github.com/peachl/solo-blog) |
 |  | 一段孤独的代码 - A Lonely Code | http://www.gunveda.top|  | [:octocat:](https://github.com/GunVeda/solo-blog) |
-| <img src="https://www.splitshire.com/wp-content/uploads/2015/12/SplitShire-Logo.png" width="24px"/> | AMO-blog - 没有酒! 照样可以叙述我的故事 | http://www.amoolee.cn|  | [:octocat:](https://github.com/amooLilf/solo-blog) |
-| <img src="https://zixizixi.cn/images/logo/logo@96.png" width="24px"/> | 子兮子兮 - No can, but will. | https://zixizixi.cn|  | [:octocat:](https://github.com/iTanken/solo-blog) |
-| <img src="https://i.loli.net/2019/07/27/5d3bd9214e37d50311.png" width="24px"/> | WinkXiao 的个人博客 - 我走得很慢，但是我 | http://xw.zhuxf.club|  | [:octocat:](https://github.com/winkxiao/solo-blog) |
-|  | 回忆的温度 的个人博客 - 记录精彩的程序人生 | https://www.guojiawei.top|  | [:octocat:](https://github.com/weixiaoqingtian/solo-blog) |
-|  | 水果家 | http://blog.shuiguoq.top|  | [:octocat:](https://github.com/zhaoshucai/solo-blog) |
-| <img src="https://img.hacpai.com/file/2019/09/代码-facb515c.png" width="24px"/> | Yi-Xing丨Blog - Don&#39;t g | http://zyxwmj.top|  | [:octocat:](https://github.com/Yi-Xing/solo-blog) |
-|  | liepainian的个人博客 - 记录精彩的人生 | https://www.zgylbn.cn|  | [:octocat:](https://github.com/linbainian/solo-blog) |
-| <img src="https://www.dioxide.top/images/skat-icon.png" width="24px"/> | CO₂的小窝 - 记录百味人生 | https://www.dioxide.top|  | [:octocat:](https://github.com/Liushaowu/solo-blog) |
-| <img src="https://raw.githubusercontent.com/maxuhui666/img/master/3f40e3ad5913947b697bd18865fb805.jpg" width="24px"/> | 马旭辉的博客 - 学习在于积累：滴水可以石穿！ 学而 | https://www.kissman.cn|  | [:octocat:](https://github.com/maxuhui666/solo-blog) |
-| <img src="https://dik111-1258101294.cos.ap-guangzhou.myqcloud.com/favicon.ico" width="24px"/> | yuwei的个人博客 - 记录精彩的程序人生 | http://www.yuweizhan.cn|  | [:octocat:](https://github.com/dik111/solo-blog) |
-| <img src="https://img.hacpai.com/file/2019/06/WechatIMG5gaitubao64x64-2c7c81e4.jpg" width="24px"/> | 小水的博客 - 一个无聊的精彩人生 | http://www.loogn.net|  | [:octocat:](https://github.com/loogn/solo-blog) |
-|  | 姜广庆的博客 - 记录精彩的程序人生 | https://aumc.cc|  | [:octocat:](https://github.com/JiangGuangqing/solo-blog) |
-|  | Matrix&#39;s Free Land - 海 | http://polynomial.cc|  | [:octocat:](https://github.com/xiaoyao2102/solo-blog) |
-|  | Totoro 的个人博客 - 记录精彩的程序人生 | http://myhert.cn/solo-v3.6.6|  | [:octocat:](https://github.com/Totoro-JJ/solo-blog) |
-| <img src="https://img.hacpai.com/file/2019/08/微信头像-e511d70c.jpg" width="24px"/> | 今日说码 - 点滴记录中国代码进程 | http://wmblr.com|  | [:octocat:](https://github.com/wmbLR/solo-blog) |
-|  | PhzCode 个人博客 - ——你的问题在于读书不 | http://www.phzz.xyz|  | [:octocat:](https://github.com/PhzCode/solo-blog) |
-|  | 一闪一闪亮晶晶，满天都是小星星 - 记录犯二的历程 | https://www.yxingxing.net|  | [:octocat:](https://github.com/xingxingdegit/solo-blog) |
-|  | zytops 的个人博客 - 每天进步一点点 | http://www.zytops.com|  | [:octocat:](https://github.com/zytops/solo-blog) |
-| <img src="https://git.zeekling.cn/avatars/3?s=287" width="24px"/> | ZEEKLING - Stay simple, st | https://www.zeekling.cn|  | [:octocat:](https://github.com/lzh984294471/solo-blog) |
-|  | 柠檬茶的个人博客 -  凡事到了回忆的时候，真实得像 | https://www.liuhsb.cn|  | [:octocat:](https://github.com/Adoboy/solo-blog) |
-|  | Isabellae - (¦3[▓▓] | http://zhangchensong.top:8080/solo|  | [:octocat:](https://github.com/zhangchensong/solo-blog) |
-|  | 偷了月亮的努努的个人博客 - 记录精彩的程序人生 | http://www.sjlzb.cn|  | [:octocat:](https://github.com/songjian0/solo-blog) |
 
 注：
 
