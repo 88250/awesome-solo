@@ -2,6 +2,7 @@
 
 | 图标 | 标题 | 链接 | 文章 | 仓库 |
 | :---: | --- | --- | ---: | :---: |
+|  | 刘欣的代码笔记 -  记录精彩的程序人生 | https://www.liuxincode.cn/| 151 | [:octocat:](https://github.com/141Mr-liu/solo-blog) |
 |  | 雨羊的个人博客 - 咸鱼不配拥有梦想 | https://www.rainsheep.top| 151 | [:octocat:](https://github.com/yanglongqi/solo-blog) |
 |  | xiongjungit 的个人博客 - 记录精彩的程 | http://www.mxnet.io| 5 | [:octocat:](https://github.com/xiongjungit/solo-blog) |
 | <img src="https://cdn.v2ex.com/gravatar/b40308a89f5c2f360deb14dce27a0329?s=73&amp;d=retro" width="24px"/> | lishulong&#39;s blog - 今夜月 | https://blog.thinking.mobi| 39 | [:octocat:](https://github.com/lishulongVI/solo-blog) |
